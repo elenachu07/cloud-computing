@@ -1,6 +1,6 @@
 Goal
 
-StudyPack is an Audio Analysis Service that turns lecture recordings into study materials. Students often record classes but rarely listen to them again, because a full lecture is too long to review. StudyPack gives them a short, structured version they can actually study from.
+NoteWave is an Audio Analysis Service that turns lecture recordings into study materials. Students often record classes but rarely listen to them again, because a full lecture is too long to review. NoteWave gives them a short, structured version they can actually study from.
 
 Use case
 
@@ -13,7 +13,7 @@ catching up on a missed class
 checking that you understood the main ideas
 Information it produces
 
-For every recording, StudyPack produces:
+For every recording, NoteWave produces:
 
 Transcript: the full text of the lecture
 Summary: a short overview of what the lecture covered
